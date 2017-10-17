@@ -1,0 +1,664 @@
+r start
+d You wake up from a daze and find yourself looking at a sign.
+d The sign says "Welcome to Snowdin". Strange.
+d You look to your left and see what seems to be a restaurant named Grillby's
+d and to your right you see a general store.
+o Walk into Grillby's
+t grillby
+o Walk into the store
+t store
+
+r grillby
+d You walk into the restaurant and your attention is quickly caught
+d by the bartender who seems to be a human figure made of flames.
+d I wonder how his clothes haven't burned off.
+o Sit at the bar
+t bar
+o Sit at a table
+t table
+o Sit in a booth
+t booth
+o Slowly walk back
+t outside
+
+r bar
+d You sit at the bar and the flaming man stands in front of you.
+d Patiently waiting and maybe staring at you. You can't tell
+d he has glasses on. And there's the fact he has no eyeballs, he's 
+d made of fire.
+o Touch the flaming bar man
+t touch
+o Look at the menu
+t menu
+o Become intimidated by it's flaming hotness and quickly scamper out the restaurant
+t outside2
+
+r touch
+d You touch the flaming barman and your hand quickly lights on fire.
+d You try putting it out but it seems to be growing at a rapid rate.
+d You ask for some water but the barman does not budge, nor does anyone
+d in the restaurant. You fall off your stool in burning agony screaming and look around
+d wondering why no one will help you. Why won't you come around the bar barman.
+d Why won't you get off your chairs you strange looking dogs in body armor.
+d Why won't you leave your booth you frog looking being. All of this is so
+d scary. As you take your last look around of this strange life, 
+d you wonder who would put you here.
+d You die.
+d Press r to restart and don't touch the barman.
+
+r menu
+d You pick up a menu and quickly browse over the various menu items. You also
+d silently wonder if any of this is safe to eat. After taking some time
+d you feel yourself ready to order so you tell the barman that you want...
+o Grillby's Special Burger
+t burger
+o Greater Dog's Steak
+t steak
+o King Asriel's Kingly Meal
+t meal
+o Spaghetti
+t spaghetti
+
+r burger
+d You order Grillby's Special Burger in the hopes that it's similar to 
+d what you know the be a burger. After waiting about 25 minutes the 
+d flaming barman comes out with what appears to be a normal burger. You bite
+d into it and are satisfied with it. It feels you with a feeling of 
+d determination for some reason. After finishing your meal you thank the barman
+d and forget that you came to this town with nothing and have no money.
+d You sit there nervously wondering how you will pay for the meal. As you
+d are about to say something you feel a hand on your shoulder, but this isn't
+d an ordinary hand. You look back and notice that it's all bones, no flesh.
+d You freak out because of the hand but the voice behind you tells the barman
+d "Put the meal on my tab"
+d The barman nods and the skeletal hand motions me to follow him. Possibly 
+d outside.
+o Follow the skeletal hand.
+t outside3
+o Fight the skeletal hand.
+t fightsan
+
+r fightsan
+d You quickly slap the hand on your shoulder and turn around. The first thing
+d you notice is the blue jacket the thing is wearing. It seems very casual
+d for someone with no skin. His head is round and he has empty eye sockets
+d with a very friendly looking smile.
+d You shout at the skeletal man to a fight. The skeletal man shrugs and says
+d have it your way.
+d All of a sudden a blue light appears in the right eye socket of the skeleton
+d and he throws his arm to the side somehow tossing you into the wall of the
+d building. You get up in a daze wondering how he did that, but as you come
+d to your sense the skeleton starts throwing his arm from side to side bringing
+d you with it. You crash into the walls and slowly lose conciousness.
+d You are dead.
+d Press r to restart and don't be picking fights with friendly people
+
+r steak
+d You order the Greater Dog Steak and hope that it will satisy your savage
+d hunger. The barman quietly leaves and in about 25 minutes comes back with
+d a plate of meat. You quickly dig in recognizing the smell as none other
+d than meat.
+d You found the meal to be delicous and satisfies your hunger which you did
+d not know you had. But you quickly realize you have no way to pay for the meal
+d when all of a sudden a hand is on your shoulder and a voice says
+d "Put it on my tab"
+d You take a quick glance at the hand and notice it has no skin on it, only
+d bones.
+d The barman nods and the skeletal hand motions me to follow him. Possibly 
+d outside.
+o Follow the hand.
+t outside3
+o Fight the hand.
+t fightsans
+
+r meal
+d You order King Asgore's Kingly Meal not knowing what is on it mostly
+d because the menu never listed what was on it. After contemplating
+d what you got yourself into the barman brings you back a plate with
+d a corn on the cob. Feeling a bit dissapointed you munch on it 
+d realizing it might be the most amazing thing you have ever eaten and
+d quickly demolish the corn on a cob, even eating the cob itself. After
+d releasing a satisfying sigh you realize you have no way of paying for the
+d meal. As you nervously look around a hand touches your shoulder. Before
+d you could look back a voice behind you says
+d "Put it on my tab"
+d You take a quick glance at the hand and notice it has no skin on it, only
+d bones.
+d The barman nods and the skeletal hand motions me to follow him. Possibly 
+d outside.
+
+r spaghetti
+d You order the spaghetti partly wondering why it was the only thing on
+d the menu without a special name attached to it. While waiting for the
+d spaghetti a tall slender figure sits next to you and quickly you realize
+d the figure has no flesh on it, only bones and is wearing a rather ridiculous hero 
+d outfit.
+d The skeleton quickly orders a plate of spaghetti from the barman.
+d The barman comes back around and sets a plate of spaghetti in front of you. The
+d skeleton quickly turns to you and asks you
+d "Do you happen to like spaghetti."
+o Yes spaghetti is my favorite meal and I am close to being able to make the perfect spaghetti.
+t yesp
+o No I just wanted something that seemed edible.
+t yesp2
+
+r yesp
+d You tell the skeleton 
+d "Yes spaghetti is my favorite meal and I am close to being able to make the perfect spaghetti."
+d and the skeleton jumps up in joy getting real close up in your face and following up
+d with another question.
+d "Do you also happen to like puzzles?"
+o I love puzzles, solving challenging puzzles and creating them.
+t yespe
+o I hate puzzles with every fiber of my being and the word triggers me.
+t yespe2
+
+r yesp2
+d You think about telling the skeleton no, but realize it is impossible to hate spaghetti
+d and tell the skeleton about your love for spaghetti and how if you could
+d only eat one thing in the world it would be spaghetti.
+d The skeleton jumps up in joy getting real close up in your face and following up
+d with another question.
+d "Do you also happen to like puzzles?"
+o I love puzzles, solving challenging puzzles and creating them.
+t yespe
+o I hate puzzles with every fiber of my being and the word triggers me.
+t yespe2
+
+r yespe
+d You tell the skeleton your love of puzzles and the skeleton becomes ecstatic
+d telling you, you must come with him and try out his own spaghetti recipe
+d and try some of the puzzles he has made so that he can capture a human.
+d He's almost out the door when he tells you to follow him.
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Maybe not follow him, jk
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+
+r yespe2
+d You contemplate telling the skeleton you hate puzzles, but can't bring
+d yourself to lie like that because you actually love puzzles. 
+d The skeleton becomes ecstatic telling you, you must come 
+d with him and try out his own spaghetti recipe
+d and try some of the puzzles he has made so that he can capture a human.
+d He's almost out the door when he tells you to follow him.
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Conteplate life. Pfftnah
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+o Follow him
+t follow
+
+r follow
+d You follow the skeleton and he tells you about his puzzles and his 
+d spaghetti recipe. You arrive at his house and there you spend the
+d rest of the day talking about various spaghetti related facts. You enjoy
+d yourself so much you find yourself falling in love with the skeleton
+d and quickly ask him out on a date.
+d The skeleton is take aback, but follows it with a loud YES
+d and that is how you got your skeleton boyfriend. Nice work
+d You basically won the game.
+d Press r to restart and forever leave this happy life.
+
+r table
+d You decide to take a seat at a table next to the table filled with dogs?
+d There's a very happy looking dog in a big suit of armor, a suspicous
+d looking dog with a lit bone he seems to be smoking, and two dogs with
+d large scythes looking like they are deeply in love.
+d You are too intrigued by the table and decide to walk over there and
+d ask...
+o The dog in large armor what they are.
+t greatdog
+o The dog smoking a bone what they are.
+t susdog
+o The lover dogs what they are.
+t lovedog
+
+r greatdog
+d You walk up to the table and the dog in armor jumps excitedly 
+d towards you. It's as if he wants you to pet him.
+o Pet him
+t pet1
+o Talk to the suspicous dog instead
+t susdog
+o Talk to the lover dogs instead
+t lovedog
+o Walk back to your table
+t table2
+
+r pet1
+d You pet the dog and his head suddenly raises itself 
+d increasing the length of his neck. It seems like he still 
+d wants you to pet him.
+o Pet him
+t pet2
+o Talk to the suspicous dog instead
+t susdog
+o Talk to the lover dogs instead
+t lovedog
+o Walk back to your table
+t table2
+
+r pet2
+d You pet the dog and his head suddenly raises itself 
+d increasing the length of his neck. It seems like he still 
+d wants you to pet him.
+o Pet him
+t pet3
+o Talk to the suspicous dog instead
+t susdog
+o Talk to the lover dogs instead
+t lovedog
+o Walk back to your table
+t table2
+
+r pet3
+d You pet the dog and his head suddenly raises itself 
+d increasing the length of his neck. It seems like he still 
+d wants you to pet him.
+o Pet him
+t pet4
+o Talk to the suspicous dog instead
+t susdog
+o Talk to the lover dogs instead
+t lovedog
+o Walk back to your table
+t table2
+
+r pet4
+d You pet the dog and his head suddenly raises itself 
+d increasing the length of his neck. It seems like he still 
+d wants you to pet him.
+o Pet him
+t pet5
+o Talk to the suspicous dog instead
+t susdog
+o Talk to the lover dogs instead
+t lovedog
+o Walk back to your table
+t table2
+
+r pet5
+d You continue petting the dog and his head has reached the
+d ceiling of the building.
+o Pet him
+t pet6
+o Talk to the suspicous dog instead
+t susdog
+o Talk to the lover dogs instead
+t lovedog
+o Walk back to your table
+t table2
+
+r pet6
+d You pet the dog and his head suddenly raises itself 
+d increasing the length of his neck. It seems like he still 
+d wants you to pet him.
+o Pet him
+t pet7
+o Talk to the suspicous dog instead
+t susdog
+o Talk to the lover dogs instead
+t lovedog
+o Walk back to your table
+t table2
+
+r pet7
+d You pet the dog and his head suddenly raises itself 
+d increasing the length of his neck. It seems like he still 
+d wants you to pet him.
+o Pet him
+t pet8
+o Talk to the suspicous dog instead
+t susdog
+o Talk to the lover dogs instead
+t lovedog
+o Walk back to your table
+t table2
+
+r pet8
+d You pet the dog and his head suddenly raises itself 
+d increasing the length of his neck. It seems like he still 
+d wants you to pet him.
+o Pet him
+t pet9
+o Talk to the suspicous dog instead
+t susdog
+o Talk to the lover dogs instead
+t lovedog
+o Walk back to your table
+t table2
+
+r pet9
+d You pet the dog and his head suddenly raises itself 
+d increasing the length of his neck. It seems like he still 
+d wants you to pet him.
+o Pet him
+t pet10
+o Talk to the suspicous dog instead
+t susdog
+o Talk to the lover dogs instead
+t lovedog
+o Walk back to your table
+t table2
+
+r pet10
+d The dog's head seems to have reached the stratosphere
+o Pet him
+t pet11
+o Talk to the suspicous dog instead
+t susdog
+o Talk to the lover dogs instead
+t lovedog
+o Walk back to your table
+t table2
+
+r pet11
+d You pet the dog and his head suddenly raises itself 
+d increasing the length of his neck. It seems like he still 
+d wants you to pet him. The dog is long gone and maybe
+d you should stop petting him.
+o Pet him
+t pet12
+o Talk to the suspicous dog instead
+t susdog
+o Talk to the lover dogs instead
+t lovedog
+o Walk back to your table
+t table2
+
+r pet12
+d Like now
+o Pet him
+t pet13
+o Talk to the suspicous dog instead
+t susdog
+o Talk to the lover dogs instead
+t lovedog
+o Walk back to your table
+t table2
+
+r pet13
+d You suk
+o Pet him
+t pet13
+o Talk to the suspicous dog instead
+t susdog
+o Talk to the lover dogs instead
+t lovedog
+o Walk back to your table
+t table2
+
+r susdog
+d You walk over to the suspicous looking dog hoping he will tell you 
+d something that makes sense. As you walk up though the dog all of sudden
+d starts barking as if he notices you moving towards him and maybe saying
+d he doesn't like you.
+o Quickly walk away to the lover dogs.
+t lovedog
+o Walk to the dog in armor
+t greatdog
+o Continue towards the suspicous dog
+t susdog2
+o Walk back to your table
+t table2
+
+r susdog2
+d The dog is going crazy as you come to a stop right next to him. But as
+d you come to a stop next to him he looks around suspicously and goes back
+d to smoking the bone.
+d You look around confused because it's as if the dog didn't see you. Maybe
+d he doesn't want to talk to you.
+o Walk towards him
+t DEATHS
+o Walk to the dog in armor.
+t greatdog
+o Walk to the lover dogs
+t lovedog
+o Walk back to your table
+t table2
+
+r DEATHS
+d You continue walking up to the suspicous dog. The dog is going wild and
+d looks straight at you. You freeze up a bit, but continue marching on.
+d As you continue onwards you look down and notice a large cut across your stomach.
+d You look down and see the suspicous dog with a knife in his hand and notice
+d he cut you before you could even get to him. You collapse onto the ground and
+d the suspicous dog goes back to normal not even glancing at you as you gasp for
+d air. It's as if he doesn't see you anymore.
+d You dead.
+d Press r to restart and touch the greater dog not this dog.
+
+r lovedog
+d You walk up to the dogs who seem madly in love. You question if it was a
+d good idea because they also carry some large scythes. When you step in front
+d of them they start frantically looking around and yelling,
+d "I smell a human"
+d Not knowing what that means you...
+o Walk back to your table
+t table2
+o Walk to the dog in armor.
+t greatdog
+o Walk to the suspicous dog.
+t susdog
+o Continue walking towards them.
+t DEATH
+
+r DEATH
+d You walk up to the lover dogs and in their panic they start swinging around their
+d large scythes and you being the slow person you are are unable to dodge even the
+d first swing of the scythe. It takes your head right off and you can see your 
+d world turning upside down because your head literally fell off and is spinning
+d and now hit the ground.
+d RIP
+d Press r to retry cause you died and dogs are dangerous except for greater dog.
+
+r table2
+d You go back to your table and take a look at the menu, but as you sit down a hand
+d is placed on your shoulder. You take a quick glance at the hand and notice it is
+d only made of bones, no flesh. This freaks you out a bit and the thing behind you
+d starts telling you to follow him.
+o Follow the hand.
+t outside3
+o Fight the hand.
+t fightsan
+
+r booth
+d You take a seat at the booth and realize there is nothing interesting here. You
+d decide to actually sit at...
+o The tables
+t table
+o The bar
+t bar
+
+r store
+d You walk into the store and notice a purple bunny standing in as the store
+d clerk. Strange.
+d You browse the various things in the store and pick up a note up for sale.
+d You bring it up to the counter and contemplate buying it.
+o Buy the note.
+t note
+o Put the note back and go outside.
+t outside4
+
+r note
+d You scrummage around in your pocket looking for money but are unable to find any
+d but the bunny notices this and tells you, you can take the note for free
+d she has no need for it anyways. It was put there by the game creator or something.
+d You read the note
+d The store has like no routes in it because the game maker is an idiot and put 
+d everything into the restaurant. You should've chosen the restaurant buddy.
+o Walk outside
+t outside4
+
+r outside
+d You walk backwards hoping no one saw you. As you make your way out you
+d notice a dog smoking a bone becoming a bit more distressed as if he
+d is sensing something bad and wants to find it and kill it. Hopefully
+d the dog isn't sensing you.
+d You make it outside safely and all of a sudden feel snow falling on top
+d of your head. It feels nice.
+d You continue on your way through the city noticing the bright lights and the christmas tree
+d with presents under it. You really enjoy the feel of Snowdin. You find yourself
+d entranced by it all and end up on a bridge with a tall skeletal figure standing in 
+d your way.
+d The figure has its head down as if it will do something it will regret. All of a
+d sudden you see a blue flash of light in his eyes and your mind goes blank.
+d In the process of dying you hear in 
+d You have died.
+d Press r to restart and don't die I guess.
+
+r outside2
+d You quickly make your way out of the restaurant while covering your face.
+d Once you step outside your face, which was just beet red, quickly cools
+d down as you feel snow falling on your face. It feels nice.
+d You start to wander through Snowdin taking in the sights. You really enjoy
+d the cozy feeling of the city. But soon you find yourself in a cave.
+d A spear lands in front of your face and you look up to see a large armored
+d figure. Its eyes light up inside its metallic body and soon a thousand spears appears
+d and start flying towards you. You try to make your escape but escape is impossible.
+d You get caught by one of the spears and you fall onto the ground bleeding. The metallic
+d figure walks up to you and just stares down at you.
+d Your vision is fading and the last thing you see is another spear and a voice,
+d "King Asgore will finally free us all."
+d You dead buddy
+d Press r to restart and don't get caught in weird places
+
+r outside3
+d You follow the mysterious figure out the restaurant and he leads you to a house at the edge of
+d town.
+d You enter the building and the figure turns around and flips the lights on. You hear a 
+d loud *pop* and *bang*. A sign drapes down across the wall saying
+d "Happy Birthday"
+d You look at the sign and think to yourself it's not actually your birthday. Theres people 
+d all over what seems to be the living room. There's 2 skeletons, one in a blue jacket and one in
+d a super hero outfit, a fish looking person in a suit of armor, 2 goats in very royal looking
+d clothing, a small lizard in a lab coat, and a handsome robot off to the side.
+d You're startled and confused not knowing whats the reason for all of this, but everyone walks
+d up to you as if you're and old friend of theirs. People are chatting and enjoying themselves
+d and you think to yourself,
+d "This ain't too bad"
+d You are happy with this result even though you don't know these people, but you're sure you'll
+d be fine here. So you decide to stay and enjoy the party.
+d  .----------------.  .----------------.  .----------------.   
+d | .--------------. || .--------------. || .--------------. |  
+d | |  ____  ____  | || |     ____     | || | _____  _____ | |  
+d | | |_  _||_  _| | || |   .'    `.   | || ||_   _||_   _|| |  
+d | |   \ \  / /   | || |  /  .--.  \  | || |  | |    | |  | |  
+d | |    \ \/ /    | || |  | |    | |  | || |  | '    ' |  | |  
+d | |    _|  |_    | || |  \  `--'  /  | || |   \ `--' /   | |  
+d | |   |______|   | || |   `.____.'   | || |    `.__.'    | |  
+d | |              | || |              | || |              | |  
+d | '--------------' || '--------------' || '--------------' |  
+d  '----------------'  '----------------'  '----------------'   
+d  .----------------.  .----------------.  .-----------------.  
+d | .--------------. || .--------------. || .--------------. |  
+d | | _____  _____ | || |     _____    | || | ____  _____  | |  
+d | ||_   _||_   _|| || |    |_   _|   | || ||_   \|_   _| | |  
+d | |  | | /\ | |  | || |      | |     | || |  |   \ | |   | |  
+d | |  | |/  \| |  | || |      | |     | || |  | |\ \| |   | |  
+d | |  |   /\   |  | || |     _| |_    | || | _| |_\   |_  | |  
+d | |  |__/  \__|  | || |    |_____|   | || ||_____|\____| | |  
+d | |              | || |              | || |              | |  
+d | '--------------' || '--------------' || '--------------' |  
+d  '----------------'  '----------------'  '----------------'   
+d  __   __    ___     _   _            
+d  \ \ / /   / _ \   | | | |     o O O 
+d   \ V /   | (_) |  | |_| |    o      
+d   _|_|_    \___/    \___/    TS__[O] 
+d _| """ | _|"""""| _|"""""|  {======| 
+d "`-0-0-' "`-0-0-' "`-0-0-' ./o--000' 
+d __      __   ___     _  _            
+d \ \    / /  |_ _|   | \| |           
+d  \ \/\/ /    | |    | .` |           
+d   \_/\_/    |___|   |_|\_|           
+d _|"""""|  _|"""""| _|"""""|          
+d "`-0-0-'  "`-0-0-' "`-0-0-'                                                      
+d                   ,----..                           
+d                  /   /   \                          
+d         ,---,   /   .     :           ,--,          
+d        /_ ./|  .   /   ;.  \        ,'_ /|          
+d  ,---, |  ' : .   ;   /  ` ;   .--. |  | :          
+d /___/ \.  : | ;   |  ; \ ; | ,'_ /| :  . |          
+d  .  \  \ ,' ' |   :  | ; | ' |  ' | |  . .          
+d   \  ;  `  ,' .   |  ' ' ' : |  | ' |  | |          
+d    \  \    '  '   ;  \; /  | :  | | :  ' ;          
+d     '  \   |   \   \  ',  /  |  ; ' |  | '          
+d      \  ;  ;    ;   :    /   :  | : ;  ; |          
+d       :  \  \    \   \ .'    '  :  `--'   \         
+d        \  ' ;     `---`      :  ,      .-./         
+d         `--`                  `--`----'             
+d                                                     
+d                                                     
+d                                    ,--.             
+d            .---.    ,---,        ,--.'|             
+d           /. ./| ,`--.' |    ,--,:  : |             
+d       .--'.  ' ; |   :  : ,`--.'`|  ' :             
+d      /__./ \ : | :   |  ' |   :  :  | |             
+d  .--'.  '   \' . |   :  | :   |   \ | :             
+d /___/ \ |    ' ' '   '  ; |   : '  '; |             
+d ;   \  \;      : |   |  | '   ' ;.    ;             
+d \   ;  `      | '   :  ; |   | | \   |             
+d   .   \    .\  ; |   |  ' '   : |  ; .'             
+d    \   \   ' \ | '   :  | |   | '`--'               
+d     :   '  |--"  ;   |.'  '   : |                   
+d      \   \ ;     '---'    ;   |.'                   
+d       '---"               '---'        
+d Press r to restart you winner
+
+r outside4
+d You walk outside not knowing what to do now. You start to wander around town.
+d You wander and wander and spend the rest of your life wandering around.
+d You basically lost cause your lost.
+d You lose.
+d Press r to restart and don't get lost.
